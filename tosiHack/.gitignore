@@ -1,0 +1,5 @@
+data/*
+.idea/*
+__pycache__/*
+script/__pycache__/
+/data/tweet.db

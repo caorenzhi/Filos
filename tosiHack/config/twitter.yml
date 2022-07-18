@@ -1,0 +1,5 @@
+CONSUMER_KEY: 'put your consumer key here'
+CONSUMER_SECRET: 'put your consumer secret here'
+BEARER_TOKEN:  "put your bearer token here"
+ACCESS_TOKEN: "put your access token here"
+ACCESS_TOKEN_SECRET: "put it here"
