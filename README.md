@@ -3,5 +3,5 @@ By July 2022, there are already more than 83 million people who have created uni
 Filos is a decentralized autonomous organization (DAO), which is member-owned communities without centralized leadership. It is designed to lower the barrier of users to access, understand, visualize the data in a decentralized way. It is an AI-powered Web3 portfolio management platform that will rebuild the finance to make it easy for everyone to manage their portfolio without any tech barrier. 
 To achive this goal, Filos will utilize the Artificila Intelligence and Blockchain technology. Starting from Ergo and Cardano, and ultimately will expand to multiple chains like ETH, DOT, etc. Confucius said in the Analects - Yan Yuan that "all men are brothers“, we believe members in Filos are in a family, are friends, and will achieve the goal together. The rest of the white paper will go over the work that the team has done, the framework, and the roadmap. 
 
-#Preliminary work
+# Preliminary work
 
