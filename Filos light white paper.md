@@ -40,35 +40,51 @@ The Filos protocol would like to have every user participate and it will evolve 
 
 # roadmap
 (1). **Micali Era** (Zero knowledge proof - Turing award)
+
 <img width="134" alt="image" src="https://user-images.githubusercontent.com/22382662/181383079-36c0ebb3-f447-4ceb-b5be-c536480919d8.png">
+
 Web 2 data sourcing. A pipeline to collect all web 2 financial data and provide service. 
 
 (2). **Andrew C. Yao** Era (Computational complexity theory, Analysis of algorithms, Yao’s principle, Cryptography. - Turing award) 
+
 <img width="224" alt="image" src="https://user-images.githubusercontent.com/22382662/181383179-361b9cce-5b7f-41fe-aa3b-89851eeebd3f.png">
+
 Launch AI product for analyzing web2 data
 
 (3). **Donald E. Knuth Era** (The Art of Computer Programming - Turing award)
+
 <img width="146" alt="image" src="https://user-images.githubusercontent.com/22382662/181383289-f1ff6a53-70f2-44a7-85c0-518ed0409d39.png">
+
 Launch token and the token for using the data service
 
 (4). **John von Neumann Era** (Pioneered the modern computer, game theory, nuclear deterrence. - Turing award) 
+
 <img width="224" alt="image" src="https://user-images.githubusercontent.com/22382662/181383478-d1916089-733b-4c89-9d3d-bc00270dfb11.png">
+
 Integrating Web 3 DeFi and NFT data into the pipeline, and reward users for providing data 
 
 (5). **Alan Turing Era**
+
 <img width="224" alt="image" src="https://user-images.githubusercontent.com/22382662/181383871-e8190984-245a-484d-939a-f8bb0170a61b.png">
+
 Decentralize all data in Web 3! 
 
 (6). **Yoshua Bengio Era** (Turing award for AI) 
+
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/22382662/181383975-33501fb3-d728-478c-8321-2f11994d215c.png">
+
 Decentralize AI in blockchain, analyzing data and assess the credit and quality of DeFi and NFT projects in Web 3 
 
 (7). **Yann LeCun Era** (Turing award for AI) 
+
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/22382662/181384097-a64744b9-21d4-4f3e-940f-49a6ea122652.png">
+
 Innovative NFT on education! 
 
 (8). **Geoffrey Hinton Era** (Turing award for AI) 
+
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/22382662/181384148-cc7a128c-e13a-492c-a2da-dc343991fcfc.png">
+
 Decentralizing asset management using AI in blockchain.   
 
 
