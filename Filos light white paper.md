@@ -52,6 +52,12 @@ The Filos protocol would like to have every user participate and it will evolve 
 
 Web 2 data sourcing. A pipeline to collect all web 2 financial data and provide service. 
 
+- [x] Access the stock price data
+- [x] Access the crypto price data
+- [ ] Access the crypto and financial news data
+- [ ] Access twitter data
+- [ ] Access discord data
+
 (2). **Andrew C. Yao** Era (Computational complexity theory, Analysis of algorithms, Yao’s principle, Cryptography. - Turing award) 
 
 <img width="224" alt="image" src="https://user-images.githubusercontent.com/22382662/181383179-361b9cce-5b7f-41fe-aa3b-89851eeebd3f.png">
