@@ -40,6 +40,8 @@ We believe the decentralized AI would be the key for the portofolio management, 
 
 As a DAO, the governance is very important. Filos would give the voting power to each user who holds the token of the network. In addition, Filos would also propose the staking & conviction vote concept, while users can lock their tokens for staking reward and also vote with the conviction so that they would have higher voting power. For example, one user A who has 100 token would have 100 voting power, and another user B who has 1k token would have 1k voting power, so the user B would always win in the governance for the future of the DAO, but with the conviction, user A can lock the token for 3 months for 30x voting power and earn the staking reward, but user B didn't lock his token. So finally user A's voting power is 100x30 = 3000, much higher than user B with only 1000. 
 
+The governance vote could happen on Discord and users can also make proposal on Discord, so it would be more convinient for users who don't have tech background. 
+
 The Filos protocol would like to have every user participate and it will evolve with the governmance. So users can make proposal to decide which AI model would be used for the portfolio management, users can make proposal and decide which data should be analyzed, users can make proposal and decide which assets and which chain would be included in the portfolio, etc. 
 
 # roadmap
