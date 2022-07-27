@@ -6,4 +6,18 @@ Filos is a decentralized autonomous organization (DAO), which is member-owned co
 To achive this goal, Filos will utilize the Artificila Intelligence and Blockchain technology. Starting from Ergo and Cardano, and ultimately will expand to multiple chains like ETH, DOT, etc. Confucius said in the Analects - Yan Yuan that "all men are brothers“, we believe members in Filos are in a family, are friends, and will achieve the goal together. The rest of the white paper will go over the work that the team has done, the framework, and the roadmap. 
 
 # Preliminary work
+The team has done some preliminary work on the financial data sourcing and data analysis on the finanial. For example, more than **8k stocks pricing data, 1k Crypto price data, 10 million twitter data related to Crypto**. We have also build the discord bot to provide the analysis and access of those data to our members in the DAO. The team is also working on Crypto news data and analysis. In the near future, the team will train the AI model to process those data and members in the DAO can also access those analysis. All of those will be available on discord, in addition, the future reward and governance would be discord as well. Some examples are **NLP-based data inquiry, token authentication system, and community data participation framework**. 
+
+# Filos framework
+There are a lot of difficulties for data analysis on financial data, especially on the Crypto data. Just list a few, Crypto markets are more sensitive and volatile than the stock market, and traditional strategies don’t work well; Resources about understanding trends in the crypto markets are disjointed and inaccessible; There is a current lack of mature automated and easy-to-use crypto trading tools that can help people with managing their portfolios; Very little tooling in recognizing cross-chain opportunities. 
+In order to tackle those difficult problems, Filos would integrate the Artificial Intelligence (AI), Natural Language Processing (NLP) and block chain technology. 
+
+<img width="478" alt="Screen Shot 2022-07-27 at 2 18 54 PM" src="https://user-images.githubusercontent.com/22382662/181374305-37525cc0-bf37-40b0-8bea-122b55afb0c0.png">
+
+Users can interact with the Filos platform which is AI powered, for the stock anlysis and recommendation, crypto analysis and recommendation, NFT and DeFi market analysis and recommendation, Crypto news sentiment analysis, etc. 
+
+
+
+
+
 
