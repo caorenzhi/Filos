@@ -38,7 +38,7 @@ One product that Filos will bring is the Soul bounded NFT to education, while th
 
 (3). **Decentralized AI powered portofolio management**
 
-We believe the decentralized AI would be the key for the portofolio management, as the AI can automatically process and analyze the data 24 hours a day, and it is also much faster than human. Ultimately, all data would be stored on chain and the AI model would also be stored on chain, to make it transparent and accessable to everyone. 
+We believe the decentralized AI would be the key for the portofolio management, as the AI can automatically process and analyze the data 24 hours a day, and it is also much faster than human. The AI technique combined with Natural Language Processing (NLP) technique will be used to process the financial data, including the quantitative and qualitative data, and generate features to train the AI model. We will explore different AI technique, from the traditional Neural Network, Recurrent Neural Network, to the latest Deep Learning technique. Ultimately, all data would be stored on chain and the AI model would also be stored on chain, and the training of AI will also be decentralized to make it transparent and accessable to everyone. 
 
 (4). **Governance**
 
@@ -60,6 +60,7 @@ Web 2 data sourcing. A pipeline to collect all web 2 financial data and provide 
 - [ ] Access the crypto and financial news data
 - [ ] Access twitter data
 - [ ] Access discord data
+- [ ] Explore other type of financial data from the community
 
 (2). **Andrew C. Yao** Era (Computational complexity theory, Analysis of algorithms, Yao’s principle, Cryptography. - Turing award) 
 
@@ -67,11 +68,19 @@ Web 2 data sourcing. A pipeline to collect all web 2 financial data and provide 
 
 Launch AI product for analyzing web2 data
 
+- [ ] Apply NLP to analyze the the crypto and finanial news
+- [ ] Train different AI models on the financial data and launch the product on discord and website 
+- [ ] Organize events and get the community involved to test the AI product and improve the AI product
+
 (3). **Donald E. Knuth Era** (The Art of Computer Programming - Turing award)
 
 <img width="146" alt="image" src="https://user-images.githubusercontent.com/22382662/181383289-f1ff6a53-70f2-44a7-85c0-518ed0409d39.png">
 
 Launch token and the token for using the data service
+
+- [ ] Launch the testnet
+- [ ] Launch the Token
+- [ ] Data service using the token 
 
 (4). **John von Neumann Era** (Pioneered the modern computer, game theory, nuclear deterrence. - Turing award) 
 
@@ -79,11 +88,18 @@ Launch token and the token for using the data service
 
 Integrating Web 3 DeFi and NFT data into the pipeline, and reward users for providing data 
 
+- [ ] Access the on-chain data and NFT data 
+- [ ] Launch the "contribute to earn" that users can provide data and earn tokens 
+- [ ] Improve the product and pipeline, and be ready for the fully decentralized mainnet
+- [ ] Launch the bot for trading
+
 (5). **Alan Turing Era**
 
 <img width="224" alt="image" src="https://user-images.githubusercontent.com/22382662/181383871-e8190984-245a-484d-939a-f8bb0170a61b.png">
 
 Decentralize all data in Web 3! 
+
+- [ ] Mainnet to decentralize the data, it will be on the blockchain 
 
 (6). **Yoshua Bengio Era** (Turing award for AI) 
 
@@ -91,17 +107,24 @@ Decentralize all data in Web 3!
 
 Decentralize AI in blockchain, analyzing data and assess the credit and quality of DeFi and NFT projects in Web 3 
 
+- [ ] Launch the product of decentralized AI 
+- [ ] Test and Launch the product for the on-chain credit analysis of DeFi and NFT projects 
+
 (7). **Yann LeCun Era** (Turing award for AI) 
 
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/22382662/181384097-a64744b9-21d4-4f3e-940f-49a6ea122652.png">
 
 Innovative NFT on education! 
 
+- [ ] Launch the Soul bound NFT for education
+- [ ] Innovative NFT for "play, learn and earn", for the education 
+
 (8). **Geoffrey Hinton Era** (Turing award for AI) 
 
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/22382662/181384148-cc7a128c-e13a-492c-a2da-dc343991fcfc.png">
 
-Decentralizing asset management using AI in blockchain.   
+Decentralizing asset management using AI in blockchain.  
+
 
 
 
