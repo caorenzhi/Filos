@@ -9,7 +9,7 @@ Filos is a decentralized autonomous organization (DAO), which is a member-owned 
 To achieve this goal, Filos will utilize Artificial Intelligence and Blockchain technology. Starting from Ergo and Cardano, and ultimately will expand to multiple chains like ETH, DOT, etc. Confucius said in the Analects - Yan Yuan that _"all men are brothers“_, we believe members in Filos are in a family, our friends, and will achieve the goal together. The rest of the white paper will go over the work that the team has done, the framework, and the roadmap.
 
 ## Preliminary Work
-The team has done some preliminary work on the financial data sourcing and data analysis on the financial. **For example, more than 8k stock pricing data, 1k Crypto price data, and 10 million Twitter data related to Crypto.** We have also built the discord bot to provide the analysis and access of those data to our members in the DAO. The team is also working on Crypto news data and analysis. Shortly, the team will train the AI model to process those data, and members in the DAO can also access those analyses. All of those will be available on discord, in addition, the future reward and governance would be on discord as well. Some examples are **NLP-based data inquiry, token authentication system, and community data participation framework.**
+The team has done some preliminary work on the financial data sourcing and data analysis on the financial. **For example, more than 8k stock pricing data, 1k Crypto price data, and 10 million Twitter data related to Crypto.** We have also built the discord bot to provide the analysis and access of those data to our members in the DAO. The team is also working on Crypto news data and analysis. Shortly, the team will train the AI model to process those data, and members in the DAO can also access those analysis. All of those will be available on discord, in addition, the future reward and governance would be on discord as well. We will also build a website to show our data analysis, visualization information and various services, which contains crypto wallet and users can log in the website through discord. Some examples are **NLP-based data inquiry, token authentication system, and community data participation framework.**
 
 And this is the [final prototype submission video for the Tosi Hackathon:](https://www.youtube.com/watch?v=PZ0WdWXeojo)
 
@@ -60,11 +60,12 @@ The Filos protocol would like to have every user participate and it will evolve 
 
 - [x] Build a pipeline to get the stock price data
 - [x] Build a pipeline to get the crypto price data
-- [ ] Build a pipeline to get the crypto and financial news data
+- [x] Build a pipeline to get the crypto and financial news data
 - [ ] Build a pipeline to get Twitter data
 - [ ] Build pipeline to get discord data
 - [ ] Build API for data access
 - [ ] Explore other types of financial data from the community
+- [ ] Build a website to show the prototype of the platform
 
 ### 2. Andrew C. Yao Era
 
@@ -78,6 +79,7 @@ The Filos protocol would like to have every user participate and it will evolve 
 - [ ] Apply NLP to analyze the crypto and financial news
 - [ ] Train different AI models on the financial data and launch the product on discord and website 
 - [ ] Organize events and get the community involved to test the AI product and improve the AI product
+
 
 ### 3. Donald E. Knuth Era 
 
